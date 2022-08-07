@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: eavilov <eavilov@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/12/27 11:03:34 by eavilov           #+#    #+#             */
-/*   Updated: 2022/08/07 10:29:16 by eavilov          ###   ########.fr       */
+/*   Created: 2022/02/13 14:07:08 by eavilov           #+#    #+#             */
+/*   Updated: 2022/02/16 15:58:52 by eavilov          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	ft_charfinder(char *str, char character)
 {
